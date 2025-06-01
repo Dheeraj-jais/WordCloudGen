@@ -142,5 +142,5 @@ if wordcloud_image_bytes: # Check if bytes exist from a previous generation
 
 
 st.markdown("---")
-st.markdown("Created by Dheeraj jaiswal")
+st.markdown("Created by :- ***Dheeraj jaiswal***")
 
